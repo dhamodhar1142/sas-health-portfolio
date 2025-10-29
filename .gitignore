@@ -1,0 +1,9 @@
+.DS_Store
+Thumbs.db
+outputs/*
+!outputs/.gitkeep
+*.log
+*.lst
+*.sas7bdat
+*.sas7bcat
+*.pdf
